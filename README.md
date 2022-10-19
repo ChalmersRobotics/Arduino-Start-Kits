@@ -5,8 +5,8 @@
 ## Parts needed
 
 * Arduino Nano
-* Breadboard
-* 1x button
+* Breadboard and wires
+* 1x Button
 * 1x Capacitor 6.3v, 200 - 1000uF
 * 2x APA-106 RGB LEDs
 
