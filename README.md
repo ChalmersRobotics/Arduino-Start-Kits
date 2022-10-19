@@ -14,6 +14,8 @@
 
 ![Schematics](./startkit_led_bb.png)
 
+[APA-106 pinouts](https://community.element14.com/resized-image/__size/600x600/__key/communityserver-discussions-components-files/215/contentimage_5F00_193552.jpg)
+
 ## Ideas
 
 * Add more LEDs
